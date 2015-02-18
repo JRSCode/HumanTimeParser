@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Text.RegularExpressions;
 
-namespace TimeParser {
+namespace JRSCode {
 
     /*HumanTimeSpanParser - Parsing human input strings into a TimeSpan object
     Copyright (C) 2015 JRSCode
